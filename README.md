@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repo has been superseeded by https://github.com/ladderlogix/PKTBypass
+
 # Packet tracer recovery
 
 Only tested on 8.2.1 
